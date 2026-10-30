@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+work-visual-data/
+
+# Personal and generated data
+booklist.xlsx
+booklist.csv
+booklist-其他资源.csv
+sample/*.csv
+data/*
+!data/.gitkeep
+*.bak
+*.bak-*
